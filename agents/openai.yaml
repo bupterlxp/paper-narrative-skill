@@ -1,7 +1,7 @@
 interface:
   display_name: "Paper Narrative"
-  short_description: "用六大范式打磨 AI 顶会论文叙事、实验与审稿应对"
-  default_prompt: "Use $paper-narrative to turn this AI research idea into a defensible top-conference story."
+  short_description: "六大范式定位论文贡献，结合反防御编辑打磨摘要、实验与审稿回复"
+  default_prompt: "Use $paper-narrative to identify the contribution supported by my materials and revise this paper text for clarity and conviction while preserving evidence, scope, and citations."
 
 policy:
   allow_implicit_invocation: true

@@ -1,0 +1,43 @@
+{
+  "repository": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill",
+  "commit": "82d31402caa0db1790026824399044538483171b",
+  "reviewed_on": "2026-10-07",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 Adkid-Zephyr",
+  "files": [
+    {
+      "path": "skills/anti-defensive-writing/SKILL.md",
+      "sha256": "6f072e66f6adf813bc1b4291754f2bc07ed4e65a398359844e97bfa215a1c28e",
+      "handling": "read and adapted; not vendored"
+    },
+    {
+      "path": "skills/anti-defensive-writing-en/SKILL.md",
+      "sha256": "49705a92677d06b1be9f78be5be4f966b1d30c4ed72a3b97c86a973d06683b9b",
+      "handling": "read and adapted; not vendored"
+    },
+    {
+      "path": "prompts/精简版提示词.txt",
+      "sha256": "8a52d3a5d5def26d22acf9024ab31169f74cc4d944e1b6a7c6280c3886a01e86",
+      "handling": "read and adapted; not vendored"
+    },
+    {
+      "path": "README.md",
+      "sha256": "755f521c4047880a0a18cf0d8c58933f0b1f4486f63918c0852f8c92875f947d",
+      "handling": "read and adapted; not vendored"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "fdf440e5214588d9edcdc1ec315cddbd8525fe509242c24989a8472d283325f4",
+      "handling": "verbatim license"
+    }
+  ],
+  "adapted_into": [
+    "SKILL.md",
+    "references/anti-defensive-writing.md",
+    "references/paper-workflows.md",
+    "references/narrative-framework.md",
+    "references/reviewer-stress-test.md",
+    "examples/before-after.md",
+    "README.md"
+  ]
+}
